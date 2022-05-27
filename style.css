@@ -1,0 +1,30 @@
+#infosProd{
+    background-color: rgb(117, 174, 182);
+    padding: 15px;
+    border-radius: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    margin: auto;
+}
+
+ th, td {
+    border: 1px solid rgb(0, 0, 0);
+    padding: 15px;
+    text-align: left;
+    background-color: rgba(114, 162, 218, 0.753);
+    width: 10px;
+}
+body{
+    text-align: center;
+}
+input{
+    border-radius: 5px;
+}
+h2 {
+    color:rgb(1, 1, 71);
+}
+h1 {
+    color:rgb(1,1,71)
+}
